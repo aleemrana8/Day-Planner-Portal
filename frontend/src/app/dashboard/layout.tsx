@@ -96,7 +96,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
                 className="overflow-hidden whitespace-nowrap"
               >
                 <h1 className="font-bold text-lg">Day Planner</h1>
-                <p className="text-[10px] text-indigo-300">Executive Portal</p>
+                <p className="text-[10px] text-indigo-300">MTBC Executive Portal</p>
               </motion.div>
             )}
           </AnimatePresence>
@@ -191,7 +191,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
                 </div>
                 <div>
                   <h1 className="font-bold">Day Planner</h1>
-                  <p className="text-[10px] text-indigo-300">Executive Portal</p>
+                  <p className="text-[10px] text-indigo-300">MTBC Executive Portal</p>
                 </div>
               </div>
               <button onClick={() => setMobileOpen(false)} className="text-[var(--text-secondary)]">

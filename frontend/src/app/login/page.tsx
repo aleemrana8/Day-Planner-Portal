@@ -66,18 +66,20 @@ export default function LoginPage() {
             </div>
             <div>
               <h2 className="text-2xl font-bold text-[var(--text-primary)]">Day Planner</h2>
-              <span className="text-xs text-indigo-300">Executive Portal</span>
+              <span className="text-xs text-indigo-300">MTBC Executive Portal</span>
             </div>
           </div>
 
           <h1 className="text-4xl font-bold text-[var(--text-primary)] leading-tight mb-4">
-            Welcome to Your
+            Welcome to
             <br />
-            <span className="gradient-text">Command Center</span>
+            <span className="gradient-text">Day Planner</span>
+            <br />
+            <span className="text-2xl font-semibold text-[var(--text-secondary)]">MTBC Executive Portal</span>
           </h1>
           <p className="text-[var(--text-secondary)] mb-8">
             Access real-time operational intelligence, workforce analytics, and executive dashboards
-            powered by Websoft integration.
+            powered by Websoft &amp; Securesoft integration.
           </p>
 
           {/* Quick login cards */}

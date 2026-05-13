@@ -6,8 +6,8 @@ import ThemeProvider from "@/components/ThemeProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Day Planner Executive Portal",
-  description: "Next-generation workforce analytics & operational management platform",
+  title: "Day Planner — MTBC Executive Portal",
+  description: "Next-generation workforce analytics & operational management platform by MTBC",
 };
 
 // Script to prevent flash of wrong theme on load

@@ -69,7 +69,7 @@ export default function LandingPage() {
           </div>
           <span className="text-xl font-bold">Day Planner</span>
           <span className="text-xs px-2 py-0.5 rounded-full bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
-            Executive
+            MTBC Executive
           </span>
         </div>
         <div className="flex items-center gap-3">
@@ -101,7 +101,7 @@ export default function LandingPage() {
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[var(--overlay-5)] border border-[var(--border-10)] backdrop-blur-sm mb-8"
           >
             <div className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="text-sm text-[var(--text-subtle)]">Powered by Websoft Billing Desk Integration</span>
+            <span className="text-sm text-[var(--text-subtle)]">Powered by Websoft &amp; Securesoft — MTBC Integration</span>
           </motion.div>
 
           <motion.h1
@@ -350,7 +350,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-8 flex items-center justify-between text-sm text-[var(--text-tertiary)]">
           <div className="flex items-center gap-2">
             <Sparkles className="w-4 h-4 text-indigo-500" />
-            <span>Day Planner Executive Portal</span>
+            <span>Day Planner — MTBC Executive Portal</span>
           </div>
           <span>Powered by Securesoft & Websoft Integration</span>
         </div>
